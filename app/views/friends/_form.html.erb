@@ -12,25 +12,28 @@
   <% end %>
 
   <div class="field form-group">
-    <%= form.text_field :first_name, class: 'form-control m-1', placeholder: 'First Name' %>
+    <%= form.text_field :first_name, class: 'form-control mb-2', placeholder: 'First Name' %>
   </div>
 
   <div class="field form-group">
-    <%= form.text_field :last_name, class: 'form-control m-1', placeholder: 'Last Name' %>
+    <%= form.text_field :last_name, class: 'form-control mb-2', placeholder: 'Last Name' %>
   </div>
 
   <div class="field form-group">
-    <%= form.text_field :email, class: 'form-control m-1', placeholder: 'Email' %>
+    <%= form.text_field :email, class: 'form-control mb-2', placeholder: 'Email' %>
   </div>
 
   <div class="field form-group">
-    <%= form.text_field :phone, class: 'form-control m-1', placeholder: 'Phone'  %>
+    <%= form.text_field :phone, class: 'form-control mb-2', placeholder: 'Phone'  %>
   </div>
 
   <div class="field form-group">
-    <%= form.text_field :twitter, class: 'form-control m-1', placeholder: 'Twitter'  %>
+    <%= form.text_field :twitter, class: 'form-control mb-2', placeholder: 'Twitter'  %>
   </div>
-
+  <div class="field form-group">
+    <%= form.number_field :user_id, id: :friend_user_id, class: 'form-control mb-2', value: current_user.id, type: 'hidden'  %>
+  </div>
+  <br><br>
   <div class="actions">
     <%= form.submit class: 'btn btn-primary'%>
   </div>
