@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2347eb-2faf-499b-8570-38643de99a75" name="Changes" comment="Styled a little bit" />
+    <list default="true" id="ee2347eb-2faf-499b-8570-38643de99a75" name="Changes" comment="Styled a little bit">
+      <change beforePath="$PROJECT_DIR$/.idea/friendslist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/friendslist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/about.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/about.html.erb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +41,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="rails s" />
+    </option>
   </component>
   <component name="RunManager" selected="Rails.Development: friendslist">
     <configuration name="Development: friendslist" type="RailsRunConfigurationType" factoryName="Rails">
@@ -151,6 +162,8 @@
       <workItem from="1634505263452" duration="35000" />
       <workItem from="1634898665077" duration="6144000" />
       <workItem from="1634915137136" duration="1648000" />
+      <workItem from="1635453397380" duration="27000" />
+      <workItem from="1635505677906" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="added CRUD functionality">
       <created>1634900708135</created>
