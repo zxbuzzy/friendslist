@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2347eb-2faf-499b-8570-38643de99a75" name="Changes" comment="Styled a little bit">
-      <change beforePath="$PROJECT_DIR$/.idea/friendslist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/friendslist.iml" afterDir="false" />
+    <list default="true" id="ee2347eb-2faf-499b-8570-38643de99a75" name="Changes" comment="App done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/friends/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/home/about.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/about.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +161,7 @@
       <workItem from="1634898665077" duration="6144000" />
       <workItem from="1634915137136" duration="1648000" />
       <workItem from="1635453397380" duration="27000" />
-      <workItem from="1635505677906" duration="1970000" />
+      <workItem from="1635505677906" duration="4747000" />
     </task>
     <task id="LOCAL-00001" summary="added CRUD functionality">
       <created>1634900708135</created>
@@ -179,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634916780129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="App done">
+      <created>1635507696873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635507696873</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +206,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added CRUD functionality" />
     <MESSAGE value="Styled a little bit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Styled a little bit" />
+    <MESSAGE value="App done" />
+    <option name="LAST_COMMIT_MESSAGE" value="App done" />
   </component>
 </project>
